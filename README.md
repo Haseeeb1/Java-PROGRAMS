@@ -1,3 +1,6 @@
+//THIS IS A JAVA PROGRAM FOR GENERATING A NUMBER PLATE OF CAR WITH RANDOM THREE LETTERS AND 4 DIGITS.
+//HOPE YOU FIND IT USEFUL
+
 
 public class carplate {
     public static void main(String[] args){
